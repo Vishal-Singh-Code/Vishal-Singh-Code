@@ -23,6 +23,6 @@ Here are a few personal projects I've worked on:
 ## 📫 How to Reach Me
 - **GitHub:** [Vishal18cse](https://github.com/Vishal18cse)
 - **Email:** [vishalsingh011003@gmail.com](mailto:vishalsingh011003@gmail.com)
-- **LinkedIn:** [Vishal singh]([link_to_your_linkedin_profile](https://www.linkedin.com/in/vishal-singh-cse/))
+- **LinkedIn:** [Vishal singh](https://www.linkedin.com/in/vishal-singh-cse/)
 
 Feel free to explore my repositories and connect with me!
