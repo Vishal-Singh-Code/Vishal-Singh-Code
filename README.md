@@ -21,7 +21,7 @@ Here are a few personal projects I've worked on:
    A simple chat application. [View Project](https://github.com/Vishal18cse/chatApp)
 
 ## 📫 How to Reach Me
-- **GitHub:** [Vishal18cse](https://github.com/Vishal18cse)
+- **GitHub:** [Vishal18cse](https://github.com/Vishal-Singh-Code)
 - **Email:** [vishalsingh011003@gmail.com](mailto:vishalsingh011003@gmail.com)
 - **LinkedIn:** [Vishal singh](https://www.linkedin.com/in/vishal-singh-cse/)
 
