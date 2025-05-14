@@ -5,8 +5,8 @@ I am a passionate developer with a keen interest in building innovative applicat
 
 ## 💻 Skills
 - **Programming Languages:** Python, JavaScript
-- **Frameworks:** Django, React , Next , Express
-- **Tools:** Git, Docker, PostgreSQL , MySQL , SQLite , MongoDB
+- **Frameworks:** Django, React
+- **Tools:** Git, PostgreSQL , MySQL , SQLite , MongoDB
 
 ## 🌱 Personal Projects
 Here are a few personal projects I've worked on:
@@ -17,11 +17,8 @@ Here are a few personal projects I've worked on:
 2. **Aniverse**  
    Aniverse is the ultimate anime discovery and tracking platform, designed for enthusiasts to explore anime, manage watchlists, and engage with other fans. [View Project](https://github.com/Vishal18cse/Aniverse)
 
-3. **Chat APP**  
-   A simple chat application. [View Project](https://github.com/Vishal18cse/chatApp)
-
 ## 📫 How to Reach Me
-- **GitHub:** [Vishal18cse](https://github.com/Vishal-Singh-Code)
+- **GitHub:** [Vishal Singh](https://github.com/Vishal-Singh-Code)
 - **Email:** [vishalsingh011003@gmail.com](mailto:vishalsingh011003@gmail.com)
 - **LinkedIn:** [Vishal singh](https://www.linkedin.com/in/vishal-singh-cse/)
 
